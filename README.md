@@ -12,7 +12,7 @@
 - 🎓 IT Student at **ISET Zaghouan**
 - 🖥️ Dual-booting **Windows + Arch Linux (Hyprland)**
 - ⚡ Dev stack: `JavaScript`, `PHP`, `MySQL`, `Vue.js`, `FastAPI`
-- 🎨 I make stickman animations and edit videos for fun
+- 🎨 I make animations for fun
 - 🛠️ Tools: `Helix`, `Fish`, `OBS`, `GIMP`, `Darktable`, `Krita`
 <!-- 🎯 Currently building: a **camping website** and a **portfolio builder** -->
 
