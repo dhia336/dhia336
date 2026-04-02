@@ -1,6 +1,6 @@
 <!-- README.md for https://github.com/dhia336 -->
 
-# Mohamed Dhia Naffeti
+# Dhia
 
 <div align="center">
   
@@ -10,11 +10,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhia336&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🚀 Full Stack Developer
+## Full Stack Developer
 
-IT Student at **ISET Zaghouan** | Passionate about Web Development & Linux
+IT student at ISET Zaghouan. Focused on web development and Linux.
 
-### 💻 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -25,19 +25,15 @@ IT Student at **ISET Zaghouan** | Passionate about Web Development & Linux
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
-### 🛠️ Development Environment
+## Environment
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code&style=for-the-badge)
 
-### 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhia336&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia336&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
-
-
