@@ -73,18 +73,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhia336&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhia336&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhia336&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhia336&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
 
 <br/>
 
@@ -98,7 +91,6 @@
 </picture>
 </div>
 
-> 💡 To generate this snake animation automatically, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named after your username.
 
 <br/>
 
