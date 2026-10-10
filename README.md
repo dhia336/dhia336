@@ -11,11 +11,11 @@ IT student at ISET Zaghouan focused on full-stack development, Python backends, 
 
 | Project | What it does | Technologies |
 | --- | --- | --- |
-| [Training Management System](https://github.com/dhia336/Training-Managment-System) | Manage training participants, trainers, training cycles, and dashboard statistics through a web application | FastAPI, React, MySQL |
 | [ESP32-CAM BLE + Wi-Fi Remote](https://github.com/dhia336/esp32-cam-ble-remote) | Android remote for an ESP32-CAM with BLE controls, SD-card photo and AVI recording, file browsing, camera settings, telemetry, and Wi-Fi MJPEG streaming/transfers | Java, Android, BLE, ESP32-CAM, Arduino, HTTP, Wi-Fi |
-| [Animation Portfolio](https://github.com/dhia336/animation-portfolio) | Motion-design portfolio with an interactive gallery, animated typography, and smooth scrolling | React, GSAP, Three.js |
 | [20-20-20 Eye Care](https://github.com/dhia336/EyeRule2020) | Android reminder app with a configurable eye-break timer and fullscreen break overlay | Android |
+| [Animation Portfolio](https://github.com/dhia336/animation-portfolio) | Motion-design portfolio with an interactive gallery, animated typography, and smooth scrolling | React, GSAP, Three.js |
 | [Plant Timelapse](https://github.com/dhia336/Plant-Timelapse) | ESP32-CAM project for capturing plant growth images to a microSD card | ESP32-CAM, Arduino |
+| [Training Management System](https://github.com/dhia336/Training-Managment-System) | Manage training participants, trainers, training cycles, and dashboard statistics through a web application | FastAPI, React, MySQL |
 | [PERN Authentication Template](https://github.com/dhia336/PERN-TEMPLATE) | Learning project demonstrating JWT access tokens, refresh-token cookies, and protected routes | PostgreSQL, Express, React, Node.js |
 | [Hackathon Landing Page](https://github.com/dhia336/Hackathon-Web-Page) | Responsive event landing page | HTML, CSS, JavaScript, Bootstrap |
 
